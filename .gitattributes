@@ -1,0 +1,4 @@
+*.a filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+BmobSDK filter=lfs diff=lfs merge=lfs -text
+RevealServer filter=lfs diff=lfs merge=lfs -text
