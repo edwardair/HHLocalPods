@@ -1,0 +1,6 @@
+framework module BmobSDK {
+  umbrella header "Bmob.h"
+
+  export *
+  module * { export * }
+}
